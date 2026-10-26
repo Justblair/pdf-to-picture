@@ -18,7 +18,7 @@ PDF to Picture fixes the first problem and measures the second, so you know what
 
 ## Download
 
-Get **PDF to Picture.exe** from the [latest release](../../releases/latest). It's a single file. There's nothing to install, and Python isn't needed.
+Get **PDF-to-Picture.exe** from the [latest release](../../releases/latest). It's a single file. There's nothing to install, and Python isn't needed.
 
 > **Windows SmartScreen** may warn you the first time, because the app isn't code-signed. Click **More info › Run anyway**.
 
